@@ -12,9 +12,13 @@ Then run each of the "SYSTEM" Folder Commands atleast once, then run the command
 The system is currently proof of concept, in its current state it helped me optimise the session speed and shutdown procedures , without a digital checklist. 
 
 It allows you to do this using one button press.
+
 kill steam games 
+
 kill steam games and kill steamvr
+
 kill steam games, steam vr and shutdown the pc
+
 abort shutdown (using the command shutdown /a)[only works after script has been completed]
 
 The Shutdown Procedure Is as follows:
