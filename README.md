@@ -41,7 +41,7 @@ WORKS FOR STEAMVR WINDOWS
 The Stream Deck buttons launch .cmd files which let you see the commands upfront and see what it does. 
 
 # Why use Powershell when StreamDeck already allows you to do this ? 
-I also Used powershell to help do some things that streamdeck can struggle with since stream deck relies on entering the commands in through text, which can mess up when you are using other software such as "Mouse Without Borders", where , if you enter the button on one computer and drag your mouse over to the next, stream deck continues to enter the command into the other PC, since it is just acting like an automated keyboard. A Macro If you will.
+I also Used powershell to help do some things that streamdeck can struggle with since stream deck relies on entering the commands in through text, which can mess up when you are using other software such as "Mouse Without Borders", where , if you enter the button on one computer and drag your mouse over to the next, stream deck continues to enter the command into the other PC, since it is just acting like an automated keyboard/HID. A Macro If you will.
 
 Using Powershell also allows us to expand on what is possible without relying on add-ons, and can also allow you to do the same things on a PC that does Not have a StreamDeck. 
 
