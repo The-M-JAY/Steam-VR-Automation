@@ -22,7 +22,9 @@ kill steam games, steam vr and shutdown the pc
 abort shutdown (using the command shutdown /a)[only works after script has been completed]
 
 The Shutdown Procedure Is as follows:
-{
+
+
+==START==
 Kill any Steam Game Running
 delay
 Kill SteamVR x5 (Send termination signal so the vrmonitor window can start shutting down the base stations) (Without Using Stop process)
@@ -30,8 +32,9 @@ delay for 15 Seconds so base stations have time to turn off
 Kill Discord and Steam
 delay
 Initiate/Log Shutdown in 30 seconds
-}
+==END==
 
+The script essentially changes what it does based on the parameter "scriptmode", constricted to 1-4 which is defined in the .cmd files
 
 WORKS FOR STEAMVR WINDOWS
 
