@@ -1,6 +1,4 @@
 #Script to kill steam games
-# Latest version written 15/11/2025 12:14
-# Jay . Email: iamyeeyeeasshaircut@gmail.com (yes that is a real email)
 # function to find and kill steam games 
 param ([Int32]$scriptmode =0)
 function Stop-SteamGames{
@@ -91,6 +89,6 @@ if($scriptmode -eq 0){
 	Start-Sleep 3
 	}
 Write-Host "Script Complete" 
-Write-Host " If this script does not work please message it in the chat. If you can, record it" 
+
 
 Stop-Process -name cmd
